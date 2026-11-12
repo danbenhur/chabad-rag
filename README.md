@@ -13,4 +13,5 @@ dotnet run
 
 ## Steps
 1. ✅ ASP.NET project, `GET /passage` returns one hardcoded Tanya passage as JSON.
-2. ⏳ Next.
+2. ✅ Passage moved to `data/passage.json`; endpoint reads and deserializes it.
+3. ⏳ Next.
